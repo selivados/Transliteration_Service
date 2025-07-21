@@ -52,11 +52,13 @@
   }
   ```
   
-## 🛠️ Технологии
+## 🛠️ Технологический стек
 
-**Frontend:** HTML, CSS, JavaScript, React  
-**Backend:** Python, FastAPI  
-**Database:** MongoDB
+- **Frontend:** HTML, CSS, JavaScript, React
+
+- **Backend:** Python, FastAPI
+
+- **Database:** MongoDB
 
 ## 🚀 Установка и запуск
 
