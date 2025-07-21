@@ -68,7 +68,7 @@
    git clone https://github.com/selivados/Transliteration_Service.git
    ```
    
-2. **Переходим в папку `backend`:**
+2. **Переходим в папку "backend":**
    
    ```bash
    cd backend
@@ -98,9 +98,9 @@
    uvicorn main:app --reload
    ```
    
-   Сервер будет доступен по адресу http://127.0.0.1:8000/.
+   Сервер будет доступен по адресу http://127.0.0.1:8000.
    
-7. **Открываем отдельный терминал и переходим в папку `frontend`:**
+7. **Открываем отдельный терминал и переходим в папку "frontend":**
    
    ```bash
    cd frontend
