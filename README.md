@@ -54,7 +54,7 @@
   
 ## 🛠️ Технологический стек
 
-- **Frontend:** HTML, CSS, JavaScript, React
+- **Frontend:** JavaScript, HTML, CSS, Bootstrap, React
 
 - **Backend:** Python, FastAPI
 
